@@ -1,0 +1,8 @@
+Django>=1.10.4
+django-admin-bootstrapped>=2.3.3
+django-jinja>=1.4.1
+ipython>=3.1.0
+ipdb>=0.8.1
+Jinja2>=2.7.3
+django-ckeditor>=4.4.8
+psycopg2>=2.6
