@@ -25,7 +25,9 @@ SECRET_KEY = '8_sq8+bdgt38#q^zqxvi!r(t*(qwf@o424_-4=phmo78fq^8v5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'zalupstvo.com'
+]
 
 
 # Application definition
